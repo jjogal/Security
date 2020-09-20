@@ -2,6 +2,7 @@
 
 ## Wordlist for bruteforce SNMP Community String with Onesixtyone
 Just clone the wordlist : snmp_community_strings_wordlist_onesixtyone.txt
+
 and follow the steps described in the article,
 
 You can find article from here.
