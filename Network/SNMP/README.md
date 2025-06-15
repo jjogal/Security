@@ -4,10 +4,10 @@
 Just clone the wordlist : snmp_community_strings_wordlist_onesixtyone.txt
 
 and follow the steps described in the article at
-[The Dark Source](https://thedarksource.com/find-snmp-community-string-using-onesixtyone/).
+[InfosecOne](https://infosecone.com/blog/find-snmp-community-string-using-onesixtyone/).
 
 You can find article from here,
 
-[Find SNMP Community String using Onesixtyone](https://thedarksource.com/find-snmp-community-string-using-onesixtyone/)
+[Find SNMP Community String using Onesixtyone](https://infosecone.com/blog/find-snmp-community-string-using-onesixtyone/)
 
 
